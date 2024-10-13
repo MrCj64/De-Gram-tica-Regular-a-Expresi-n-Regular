@@ -1,0 +1,5 @@
+typedef struct Nodo
+{
+    char *linea;
+    struct Nodo *liga;
+}NODO;
